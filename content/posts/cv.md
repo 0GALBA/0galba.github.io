@@ -1,7 +1,35 @@
 ---
 title: "Gabriel"
-date: 2022-11-23T13:43:53-06:00
+date: 2008-02-18
 draft: false
+
 ---
 
- - 1927 - Collège de Blahblah
+## Études
+
+_2023-2025 - Baccalauréat professionnel CIÉL (Cyberprotection, IA, ÉLectronique) George Brassence (Évry-Courcouronnes91000)_
+
+
+
+## Expériences Professionnelles
+
+##### Assmann télécom
+_Vitry-sur-Seine | Janv. 2024 - Fév. 2024_
+
+Dans le cadre de ma formation en seconde professionnelle, option CIEL, j'ai effectué un stage au sein du groupe Assmann
+
+
+##### Oui Je Me Lance !
+_Soisy-sur-Seine | Nov. 2024 - Dec. 2024_
+
+Dans le cadre de ma formation en première professionnelle, option CIEL, j'ai effectué un stage au sein de la coopérative "Oui je Me Lance!".
+
+
+## Compétences
+_maîtrise du pack office_
+
+_maîtrise de logiciel de montage (davinci resolve/capcut...)_
+
+_connaissance de Rust / Pyhton(langage de programmation)_
+
+_création de mods Mincraft (java)_

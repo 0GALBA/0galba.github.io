@@ -1,4 +1,4 @@
-languageCode = 'en-us'
+languageCode = 'fr-fr'
 title = "Poison"
 theme = "poison"
 paginate = 10
@@ -10,7 +10,7 @@ pluralizelisttitles = false
     # og_image = ""                             # path to social icon - front matter: image takes precedent, then og_image, then brand_url
     # publisher_icon = ""                       # path to publisher icon - defaults to favicon, used in schema
     # favicon = ""                              # path to favicon
-    description = 'Salut, c&rsquo;est moi !'
+    description = 'Étudiant assidu et ambitieux, passionné par les technologies émergentes.'
     dark_mode = true
 
     menu = [
@@ -18,7 +18,7 @@ pluralizelisttitles = false
     ]
 
     discord_url = "https://discord.gg/qNDqJQzV"
-#    email_url = "mailto://user@domain"
+    email_url = "mailto://dubusgabriel95@gmail.com"
 #    facebook_url = "https://facebook.com"
 #    flickr_url = "https://flickr.com"
     github_url = "https://github.com/0GALBA"
