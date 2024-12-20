@@ -7,7 +7,7 @@ draft: false
 
 ## Études
 
-_2023-2025 | Baccalauréat professionnel CIÉL (Cyberprotection, IA, ÉLectronique) George Brassence (Évry-Courcouronnes91000)_
+_2023-2025 | Baccalauréat professionnel CIÉL (Cyberprotection, IA, ÉLectronique) George Brassences (Évry-Courcouronnes91000)_
 
 
 
