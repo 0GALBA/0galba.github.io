@@ -7,7 +7,7 @@ draft: false
 
 ## Études
 
-_2023-2025 | Baccalauréat professionnel CIÉL (Cyberprotection, IA, ÉLectronique) George Brassences (Évry-Courcouronnes91000)_
+_2023-2025 | Baccalauréat professionnel CIÉL (Cyberprotection, IA, ÉLectronique) George Brassens (Évry-Courcouronnes91000)_
 
 
 
@@ -34,7 +34,7 @@ _connaissance de Rust / Pyhton(langage de programmation)_
 
 _création de mods Mincraft (java)_
 
-_maîtrise approfondi des Prompt IA_
+_maîtrise approfondi des Prompt IA_brassens
 
 ## Prochain Stage
 _du lundi **28 avril** au samedi **24 mai** 2025_ 
