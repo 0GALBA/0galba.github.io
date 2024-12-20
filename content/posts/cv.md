@@ -1,5 +1,5 @@
 ---
-title: "Gabriel"
+title: "Gabriel Dubus"
 date: 2008-02-18
 draft: false
 
